@@ -16,3 +16,5 @@
 :heart_eyes: Thanks for watching my profile! Have a nice day! :wink:
 
 ![counter](https://enemo786q3svfle.m.pipedream.net)
+
+© 2021 tienhuynh.lttn
