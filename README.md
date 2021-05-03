@@ -6,7 +6,7 @@
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
 - :sweat_smile: I'm a newbie in coding, know C and Java language
 - :monocle_face: I'm interested in coding :computer:, sleeping :zzz:, eating :cut_of_meat:, being alone :zany_face: and watching film :tv:
-- :sunglasses: My quote is *It's never too late - never too late to start over, never too late to be happy*
+- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"***
 - :postbox: For more information, please check out or connect me via:
   - **LinkedIn:** https://www.linkedin.com/in/tienhuynhlttn/
   - **Personal mail:** tien.huynhlt.tn@gmail.com
