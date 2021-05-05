@@ -14,7 +14,7 @@
   - **LinkedIn:** [Tiên Huỳnh Lê Thủy](https://www.linkedin.com/in/tienhuynhlttn/)
   - **Personal mail:** tien.huynhlt.tn@gmail.com
   - **Facebook:** [Huỳnh Lê Thủy Tiên](https://www.facebook.com/tien.huynhlethuy.tn)
-  - **Phone number:** (+84) 849 666 957
+  - **Phone number:** [](/(+84/) 849 666 957)
 
 ###### :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: 
 
