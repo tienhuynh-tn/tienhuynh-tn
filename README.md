@@ -1,5 +1,7 @@
 # **Hi, I'm Tien Huynh :wave: :man_technologist:**
 
+About me 
+
 - :credit_card: My full name is **Huỳnh Lê Thủy Tiên**
 - :school: I'm currently a sophomore student at **FPT University - Ho Chi Minh City**
 - :books: My major is **Software Engineering**
@@ -7,7 +9,8 @@
 - :sweat_smile: I'm a newbie in coding, know C and Java language
 - :monocle_face: I'm interested in coding :computer:, sleeping :zzz:, eating :cut_of_meat:, being alone :zany_face: and watching film :tv:
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"***
-- :postbox: For more information, please check out or connect me via:
+
+:postbox: For more information, please check out or connect me via:
   - **LinkedIn:** [Tiên Huỳnh Lê Thủy](https://www.linkedin.com/in/tienhuynhlttn/)
   - **Personal mail:** [Tiên Huỳnh](tien.huynhlt.tn@gmail.com)
   - **Facebook:** [Huỳnh Lê Thủy Tiên](https://www.facebook.com/tien.huynhlethuy.tn)
