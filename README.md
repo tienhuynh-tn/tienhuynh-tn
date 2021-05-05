@@ -12,7 +12,7 @@
 
 ## :postbox: For more information, please check out or connect me via:
   - **LinkedIn:** [Tiên Huỳnh Lê Thủy](https://www.linkedin.com/in/tienhuynhlttn/)
-  - **Personal mail:** [Tiên Huỳnh](mailto:tien.huynhlt.tn@gmail.com)
+  - **Personal mail:** [tien.huynhlt.tn@gmail.com](mailto:tien.huynhlt.tn@gmail.com)
   - **Facebook:** [Huỳnh Lê Thủy Tiên](https://www.facebook.com/tien.huynhlethuy.tn)
   - **Phone number:** (+84) 849 666 957
 
