@@ -20,4 +20,4 @@
 
 ![counter](https://enemo786q3svfle.m.pipedream.net)
 
-© 2021 tienhuynh.lttn
+&copy; 2021 tienhuynh.lttn
