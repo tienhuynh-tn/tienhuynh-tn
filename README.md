@@ -8,7 +8,7 @@
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
 - :sweat_smile: I'm a newbie in coding, know C and Java language
 - :monocle_face: I'm interested in coding :computer:, sleeping :zzz:, eating :cut_of_meat:, being alone :zany_face: and watching film :tv:
-- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="200"/>
+- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="200" align="right"/>
 
 ## 🌟 About some stats:
 <div align="center">
