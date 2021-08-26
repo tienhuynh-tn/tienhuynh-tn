@@ -12,7 +12,7 @@
 
 ## About some stats:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tienhuynh-tn&layout=compact&&bg_color=8a2387,e94057,f27121&title_color=fff&text_color=fff alt="tienhuynh-tn"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=tienhuynh-tn&show_icons=true&&bg_color=#ffa07a,#ffd700,#23df74&title_color=ffffff&text_color=ffffff alt="tienhuynh-tn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tienhuynh-tn&layout=compact&&bg_color=8a2387,e94057,f27121&title_color=fff&text_color=fff alt="tienhuynh-tn"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=tienhuynh-tn&show_icons=true&&bg_color=ffa07a,ffd700,23df74&title_color=ffffff&text_color=ffffff alt="tienhuynh-tn"/>
 </div>
 
 ## :postbox: For more information, please check out or connect me via:
