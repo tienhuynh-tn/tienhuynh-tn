@@ -11,6 +11,7 @@
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"***
 
 ## About some stats:
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tienhuynh-tn&show_icons=true&locale=en&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="kien123456k" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&theme=chartreuse-dark&line_height=180em)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tienhuynh-tn&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
