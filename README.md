@@ -13,7 +13,7 @@
 
 ## 🌟 About some stats:
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tienhuynh-tn&layout=compact&&bg_color=ffa07a,ffd700,23df74&title_color=fff&text_color=fff" alt="tienhuynh-tn"/> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tienhuynh-tn&show_icons=true&&bg_color=ffa07a,ffd700,23df74&title_color=fff&text_color=fff" alt="tienhuynh-tn"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=tienhuynh-tn&layout=compact&&bg_color=ffa07a,ffd700,23df74&title_color=fff&text_color=fff" alt="tienhuynh-tn"/> <img src="https://github-readme-stats.vercel.app/api?username=tienhuynh-tn&show_icons=true&&bg_color=ffa07a,ffd700,23df74&title_color=fff&text_color=fff" alt="tienhuynh-tn"/>
 </div>
 
 ## :postbox: For more information, please check out or connect me via: [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:tien.huynhlt.tn@gmail.com) [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/tienhuynhlttn/)](https://www.linkedin.com/in/tienhuynhlttn/) [![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https://www.instagram.com/_huynh.tien.5536_/)](https://www.instagram.com/_huynh.tien.5536_/) [![Facebook](https://img.shields.io/twitter/url?label=Facebook&logo=facebook&url=https://www.facebook.com/tien.huynhlethuy.tn/)](https://www.facebook.com/tien.huynhlethuy.tn/)
