@@ -12,10 +12,9 @@
 
 ## About some stats:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tienhuynh-tn&layout=compact&theme=chartreuse-dark alt="tienhuynh-tn"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tienhuynh-tn&show_icons=true&theme=chartreuse-dark alt="tienhuynh-tn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tienhuynh-tn&layout=compact alt="tienhuynh-tn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tienhuynh-tn&show_icons=true alt="tienhuynh-tn"/>
 </div>
-
 
 ## :postbox: For more information, please check out or connect me via:
   - **LinkedIn:** [Tiên Huỳnh Lê Thủy](https://www.linkedin.com/in/tienhuynhlttn/)
