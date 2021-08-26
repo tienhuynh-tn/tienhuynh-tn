@@ -21,4 +21,4 @@
 
 ## :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: 
 ![counter](https://enemo786q3svfle.m.pipedream.net)  
-&copy; 2021 tienhuynh.lttn 
+&copy; 2021 tienhuynh-tn Tien Huynh
