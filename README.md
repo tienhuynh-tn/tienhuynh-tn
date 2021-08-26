@@ -10,6 +10,9 @@
 - :monocle_face: I'm interested in coding :computer:, sleeping :zzz:, eating :cut_of_meat:, being alone :zany_face: and watching film :tv:
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"***
 
+## About some stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tienhuynh-tn)](https://github.com/anuraghazra/github-readme-stats)
+
 ## :postbox: For more information, please check out or connect me via:
   - **LinkedIn:** [Tiên Huỳnh Lê Thủy](https://www.linkedin.com/in/tienhuynhlttn/)
   - **Personal mail:** tien.huynhlt.tn@gmail.com
