@@ -11,9 +11,10 @@
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"***
 
 ## About some stats:
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tienhuynh-tn&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark/>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tienhuynh-tn&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tienhuynh-tn&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tienhuynh-tn&show_icons=true&theme=chartreuse-dark/>
+</div>
 
 ## :postbox: For more information, please check out or connect me via:
   - **LinkedIn:** [Tiên Huỳnh Lê Thủy](https://www.linkedin.com/in/tienhuynhlttn/)
