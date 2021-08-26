@@ -24,6 +24,7 @@
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:tien.huynhlt.tn@gmail.com)
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/tienhuynhlttn/)](https://www.linkedin.com/in/tienhuynhlttn/)
 [![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https://www.instagram.com/_huynh.tien.5536_/)](https://www.instagram.com/_huynh.tien.5536_/)
+[![Facebook](https://img.shields.io/twitter/url?label=Facebook&logo=facebook&url=https://www.facebook.com/tien.huynhlethuy.tn/)](https://www.facebook.com/tien.huynhlethuy.tn/)
 
 ## :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: ![counter](https://enemo786q3svfle.m.pipedream.net)
 
