@@ -3,7 +3,7 @@
 ## :smile: About me:
 
 - :credit_card: My full name is **Huỳnh Lê Thủy Tiên** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: I'm currently 3nd year student at **FPT University - Ho Chi Minh City**
+- :school: I'm currently 3rd year student at **FPT University - Ho Chi Minh City**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
 - :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development.
