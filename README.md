@@ -16,15 +16,12 @@
 </div>
 
 ## :postbox: For more information, please check out or connect me via:
-  - **LinkedIn:** [Tiên Huỳnh Lê Thủy](https://www.linkedin.com/in/tienhuynhlttn/)
-  - **Personal mail:** tien.huynhlt.tn@gmail.com
-  - **Facebook:** [Huỳnh Lê Thủy Tiên](https://www.facebook.com/tien.huynhlethuy.tn)
-  - **Phone number:** (+84) 849 666 957
-
-[![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:tien.huynhlt.tn@gmail.com)
-[![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/tienhuynhlttn/)](https://www.linkedin.com/in/tienhuynhlttn/)
-[![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https://www.instagram.com/_huynh.tien.5536_/)](https://www.instagram.com/_huynh.tien.5536_/)
-[![Facebook](https://img.shields.io/twitter/url?label=Facebook&logo=facebook&url=https://www.facebook.com/tien.huynhlethuy.tn/)](https://www.facebook.com/tien.huynhlethuy.tn/)
+<div align="center">
+  [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:tien.huynhlt.tn@gmail.com)
+  [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/tienhuynhlttn/)](https://www.linkedin.com/in/tienhuynhlttn/)
+  [![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https://www.instagram.com/_huynh.tien.5536_/)](https://www.instagram.com/_huynh.tien.5536_/)
+  [![Facebook](https://img.shields.io/twitter/url?label=Facebook&logo=facebook&url=https://www.facebook.com/tien.huynhlethuy.tn/)](https://www.facebook.com/tien.huynhlethuy.tn/)
+</div>
 
 ## :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: ![counter](https://enemo786q3svfle.m.pipedream.net)
 
