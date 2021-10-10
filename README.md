@@ -1,4 +1,4 @@
-# :wave: Hi, I'm Tien Huynh :man_technologist:
+# :wave: Hi, I'm Tien Huynh (TN) :man_technologist:
 
 ## :smile: About me:
 
