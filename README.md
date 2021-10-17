@@ -21,4 +21,4 @@
 
 ## :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: 
 
-&copy; 2021 tienhuynh-tn Tien Huynh
+&copy; 2021 Tien Huynh tienhuynh-tn
