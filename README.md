@@ -51,9 +51,7 @@
   <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
     <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" />
   </a> &nbsp;&nbsp;
-<p>
-  
-![counter](https://enemo786q3svfle.m.pipedream.net)  
+<p> 
 
 ## :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: 
 
