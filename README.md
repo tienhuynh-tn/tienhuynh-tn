@@ -57,6 +57,10 @@
   <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
     <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
+  
+  <a href="https://www.youtube.com/channel/UC0xovL51iHgLKwLptcgNpYQ" target="_blank">
+    <img align="center" alt="TienHuynh-TN | Youtube" width="32px" src="https://icon-library.com/images/youtube-video-icon-png/youtube-video-icon-png-29.jpg" />
+  </a> &nbsp;&nbsp;
 <p> 
 
 <div align="center">
