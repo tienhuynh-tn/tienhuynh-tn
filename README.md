@@ -32,7 +32,8 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=tienhuynh-tn&theme=algolia" />
+<!--   <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" /> -->
   <!-- <img src="https://activity-graph.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
   <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
 </div>
@@ -45,6 +46,10 @@
   
   <a href="https://www.linkedin.com/in/tienhuynh-tn/" target="_blank">
     <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/tienhuynh-tn/" target="_blank">
+    <img align="center" alt="TienHuynh-TN | LeetCode" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/leetcode.png" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.facebook.com/tienhuynh.tn/" target="_blank">
