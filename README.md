@@ -28,14 +28,11 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+<img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=tienhuynh-tn&show_icons=true&theme=github_dark" alt="stats"/>
+<img height="150em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=tienhuynh-tn&theme=github_dark" alt="stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=tienhuynh-tn&theme=algolia" />
-<!--   <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" /> -->
-  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
-  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&theme=github_dark" alt="stats"/>
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect Me Via
@@ -53,7 +50,7 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://www.facebook.com/tienhuynh.tn/" target="_blank">
-      <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+      <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=96" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.instagram.com/_._tn_._tn_._/" target="_blank">
@@ -61,15 +58,15 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&color=%23ffffff" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.youtube.com/channel/UC0xovL51iHgLKwLptcgNpYQ" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Youtube" width="32px" src="https://icon-library.com/images/youtube-video-icon-png/youtube-video-icon-png-29.jpg" />
+    <img align="center" alt="TienHuynh-TN | Youtube" width="32px" src="https://www.readmecodegen.com/api/social-icon?name=youtube&size=96" />
   </a> &nbsp;&nbsp;
 <p> 
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2024 Tien Huynh tienhuynh-tn
+  &copy; 2026 Tien Huynh tienhuynh-tn
 </div>
