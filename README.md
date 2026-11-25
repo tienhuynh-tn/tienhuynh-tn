@@ -28,6 +28,14 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> About Some Stats
 <div align="center">
+  <a href="https://gitranks.com/profile/tienhuynh-tn">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://gitranks.com/badge/user/tienhuynh-tn/profile-card.svg?theme=dark">
+      <img src="https://gitranks.com/badge/user/tienhuynh-tn/profile-card.svg?theme=light" alt="tienhuynh-tn on GitRanks: profile">
+    </picture>
+  </a>
+</div>
+<div align="center">
 <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=tienhuynh-tn&show_icons=true&theme=github_dark" alt="stats"/>
 <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=tienhuynh-tn&theme=github_dark" alt="stats"/>
 </div>
